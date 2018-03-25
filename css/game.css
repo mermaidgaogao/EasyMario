@@ -1,0 +1,13 @@
+
+body{margin:0; padding: 0;background-color: #e54b24;}
+
+.gamediv{margin:0 auto;width:900px;height:400px; background-color: #fff888;position:absolute;left:200px; top:200px;}
+
+
+#content{width:900px;margin:0 auto;}
+
+#title{color: #ffffff;float: left;}
+
+#controlcenter{width: 300px;height:200px;background-color: #bfed55;float:left;margin-left: 50px;}
+
+#score{width:200px;height:200px;float:left; margin-left: 90px;color: #ffffff}
